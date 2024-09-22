@@ -1,8 +1,8 @@
 import pandas as pd
 
 
-erst = pd.read_csv('alt/Datenexport_LANDTAGSWAHL2024_Erststimme_A_BB.csv', delimiter=';')
-zweit = pd.read_csv('alt/Datenexport_LANDTAGSWAHL2024_Zweitstimme_A_BB.csv', delimiter=';')
+erst = pd.read_csv('Datenexport_LANDTAGSWAHL2024_Erststimme_A_BB.csv', delimiter=';')
+zweit = pd.read_csv('Datenexport_LANDTAGSWAHL2024_Zweitstimme_A_BB.csv', delimiter=';')
 
 # Beschreibungen der Datensaetze
 dsb_erst = pd.read_csv('DSB_Datenexport_LANDTAGSWAHL2024_Erststimme_A_BB.csv', delimiter=';', encoding='unicode_escape')
