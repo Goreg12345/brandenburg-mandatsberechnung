@@ -1,0 +1,281 @@
+1. Allgemeines;
+Inhalt der Daten;Zwischenergebnis für die Wahl zum 8. Brandenburger Landtag am 22. September 2024
+Land;Brandenburg
+Regionale Ebenen (Zahl der Datensätze);537
+Jahr;2024
+Quelle;Amt für Statistik Berlin-Brandenburg Wahlstatistik
+Lizenz;CC BY 3.0 DE 
+Angaben;absolut und in Prozent (Prozentwerte sind auf eine Nachkommastelle mathematisch gerundet)
+Grundgesamtheit der Wahlergebnisse;Wahllokal- und Briefwählende
+Regionale Ebene;Adresse des Aggregats (L=Landtagswahlkreis B=Bundestagswahlkreis G= Bundesland K=Landkreis oder kreisfreie Stadt T=Amt S=Gemeinde I=Insgesamt Nummer des Aggregats)
+;
+2. Beschreibung der Felder;
+Feldname;Feldinhalt
+Adresse;Adresse des Aggregats (L=Landtagswahlkreis B=Bundestagswahlkreis G=Bundesland K=Kreis/kreisfreie Stadt T=Amt/Verbandsgemeinde S=Gemeinde I=Insgesamt Nummer des Aggregats)
+Stimmart;Art der Stimme (1= Erststimme 2=Zweitstimme)
+Gebietsart;Bezeichnung des Gebiets/Aggregats
+Gebietsname;Name des Gebiets/Aggregats
+Nummer;Nummer des Aggregats
+OstWest;Zuordnung zu Ost/West (O=Ost W=West X=nicht zuordenbar)
+Datum;Datum des Ergebnisabzuges (Jahr Monat Tag)
+Zeit;Zeit des Ergebnisabzuges
+AnzWbez;Anzahl der Wahlbezirke
+AusWbez;ausgezählte Wahlbezirke
+AusWbezp;ausgezählte Wahlbezirke in Prozent der Wahlbezirke insgesamt
+WberIns;Zahl der Wahlberechtigten insgesamt
+WberA1;Zahl der Wahlberechtigten im Wahlberechtigtenverzeichnis ohne Wahlschein 
+WberA1p;Zahl der Wahlberechtigten im Wahlberechtigtenverzeichnis ohne Wahlschein in Prozent der Wahlberechtigten insgesamt
+WberA2;Zahl der Wahlberechtigten im Wahlberechtigtenverzeichnis mit Wahlschein 
+WberA2p;Zahl der Wahlberechtigten im Wahlberechtigtenverzeichnis mit Wahlschein in Prozent der Wahlberechtigten insgesamt
+WberA3;Zahl der Wahlberechtigten, die am Wahltag einen Wahlschein erhielten, ohne dass sie im abgeschlossenen Wählerverzeichnis eingetragen waren (§ 25 Abs 3 BbgLWahlV) 
+WberA3p;Zahl der Wahlberechtigten, die am Wahltag einen Wahlschein erhielten, ohne dass sie im abgeschlossenen Wählerverzeichnis eingetragen waren (§ 25 Abs 3 BbgLWahlV) in Prozent der Wahlberechtigten insgesamt
+Waehler;Wählende insgesamt
+Waehlerp;Wählende in Prozent der Wahlberechtigten
+WahlBr;Briefwählende
+WahlBrp;Briefwählende in Prozent der Wählenden insgesamt
+Wahlsch;Wählende mit Wahlschein insgesamt
+Wahlschp;Wählende mit Wahlschein in Prozent der Wählenden insgesamt
+Gueltig;gültige Stimmen insgesamt
+Gueltigp;gültige Stimmen in Prozent der gültigen und ungültigen Stimmen 
+Unguelt;ungültige Stimmen
+Ungueltp;ungültige Stimmen in Prozent der gültigen und ungültigen Stimmen
+P01;Sozialdemokratische Partei Deutschlands
+P01p;Sozialdemokratische Partei Deutschlands in Prozent
+P02;Alternative für Deutschland
+P02p;Alternative für Deutschland in Prozent
+P03;Christlich Demokratische Union Deutschlands
+P03p;Christlich Demokratische Union Deutschlands in Prozent
+P04;BÜNDNIS 90/DIE GRÜNEN
+P04p;BÜNDNIS 90/DIE GRÜNEN in Prozent
+P05;DIE LINKE
+P05p;DIE LINKE in Prozent
+P06;Brandenburger Vereinigte Bürgerbewegungen / Freie Wähler
+P06p;Brandenburger Vereinigte Bürgerbewegungen / Freie Wähler in Prozent
+P07;Freie Demokratische Partei
+P07p;Freie Demokratische Partei in Prozent
+P08;PARTEI MENSCH UMWELT TIERSCHUTZ
+P08p;PARTEI MENSCH UMWELT TIERSCHUTZ in Prozent
+P09;Plus Brandenburg
+P09p;Plus Brandenburg in Prozent
+P10;Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit
+P10p;Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit in Prozent
+P11;DER DRITTE WEG
+P11p;DER DRITTE WEG in Prozent
+P12;Deutsche Kommunistische Partei
+P12p;Deutsche Kommunistische Partei in Prozent
+P13;Deutsch Land Wirtschaft
+P13p;Deutsch Land Wirtschaft in Prozent
+P14;WerteUnion
+P14p;WerteUnion in Prozent
+P15;Basisdemokratische Partei Deutschland
+P15p;Basisdemokratische Partei Deutschland in Prozent
+P16;Demokraten Brandenburg
+P16p;Demokraten Brandenburg in Prozent
+P17;Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative
+P17p;Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative in Prozent
+P18;Einzelbewerbender Gliese
+P18p;Einzelbewerbender Gliese in Prozent
+P19;Einzelbewerber Hoffmann
+P19p;Einzelbewerber Hoffmann in Prozent
+P20;Einzelbewerber Link
+P20p;Einzelbewerber Link in Prozent
+P21;Einzelbewerber Mießner
+P21p;Einzelbewerber Mießner in Prozent
+P22;Einzelbewerber Müller
+P22p;Einzelbewerber Müller in Prozent
+P23;Einzelbewerber Raue
+P23p;Einzelbewerber Raue in Prozent
+P24;Einzelbewerber Schamberger
+P24p;Einzelbewerber Schamberger in Prozent
+P25;nicht besetzt, kein Ergebniseingang
+P25p;nicht besetzt, kein Ergebniseingang
+P26;nicht besetzt, kein Ergebniseingang
+P26p;nicht besetzt, kein Ergebniseingang
+P27;nicht besetzt, kein Ergebniseingang
+P27p;nicht besetzt, kein Ergebniseingang
+P28;nicht besetzt, kein Ergebniseingang
+P28p;nicht besetzt, kein Ergebniseingang
+P29;nicht besetzt, kein Ergebniseingang
+P29p;nicht besetzt, kein Ergebniseingang
+P30;nicht besetzt, kein Ergebniseingang
+P30p;nicht besetzt, kein Ergebniseingang
+P31;nicht besetzt, kein Ergebniseingang
+P31p;nicht besetzt, kein Ergebniseingang
+P32;nicht besetzt, kein Ergebniseingang
+P32p;nicht besetzt, kein Ergebniseingang
+P33;nicht besetzt, kein Ergebniseingang
+P33p;nicht besetzt, kein Ergebniseingang
+P34;nicht besetzt, kein Ergebniseingang
+P34p;nicht besetzt, kein Ergebniseingang
+P35;nicht besetzt, kein Ergebniseingang
+P35p;nicht besetzt, kein Ergebniseingang
+P36;nicht besetzt, kein Ergebniseingang
+P36p;nicht besetzt, kein Ergebniseingang
+P37;nicht besetzt, kein Ergebniseingang
+P37p;nicht besetzt, kein Ergebniseingang
+P38;nicht besetzt, kein Ergebniseingang
+P38p;nicht besetzt, kein Ergebniseingang
+P39;nicht besetzt, kein Ergebniseingang
+P39p;nicht besetzt, kein Ergebniseingang
+P40;nicht besetzt, kein Ergebniseingang
+P40p;nicht besetzt, kein Ergebniseingang
+P41;nicht besetzt, kein Ergebniseingang
+P41p;nicht besetzt, kein Ergebniseingang
+P42;nicht besetzt, kein Ergebniseingang
+P42p;nicht besetzt, kein Ergebniseingang
+P43;nicht besetzt, kein Ergebniseingang
+P43p;nicht besetzt, kein Ergebniseingang
+P44;nicht besetzt, kein Ergebniseingang
+P44p;nicht besetzt, kein Ergebniseingang
+P45;nicht besetzt, kein Ergebniseingang
+P45p;nicht besetzt, kein Ergebniseingang
+P46;nicht besetzt, kein Ergebniseingang
+P46p;nicht besetzt, kein Ergebniseingang
+P47;nicht besetzt, kein Ergebniseingang
+P47p;nicht besetzt, kein Ergebniseingang
+P48;nicht besetzt, kein Ergebniseingang
+P48p;nicht besetzt, kein Ergebniseingang
+P49;nicht besetzt, kein Ergebniseingang
+P49p;nicht besetzt, kein Ergebniseingang
+P50;nicht besetzt, kein Ergebniseingang
+P50p;nicht besetzt, kein Ergebniseingang
+P51;nicht besetzt, kein Ergebniseingang
+P51p;nicht besetzt, kein Ergebniseingang
+P52;nicht besetzt, kein Ergebniseingang
+P52p;nicht besetzt, kein Ergebniseingang
+P53;nicht besetzt, kein Ergebniseingang
+P53p;nicht besetzt, kein Ergebniseingang
+P54;nicht besetzt, kein Ergebniseingang
+P54p;nicht besetzt, kein Ergebniseingang
+P55;nicht besetzt, kein Ergebniseingang
+P55p;nicht besetzt, kein Ergebniseingang
+P56;nicht besetzt, kein Ergebniseingang
+P56p;nicht besetzt, kein Ergebniseingang
+P57;nicht besetzt, kein Ergebniseingang
+P57p;nicht besetzt, kein Ergebniseingang
+P58;nicht besetzt, kein Ergebniseingang
+P58p;nicht besetzt, kein Ergebniseingang
+P59;nicht besetzt, kein Ergebniseingang
+P59p;nicht besetzt, kein Ergebniseingang
+P60;nicht besetzt, kein Ergebniseingang
+P60p;nicht besetzt, kein Ergebniseingang
+P61;nicht besetzt, kein Ergebniseingang
+P61p;nicht besetzt, kein Ergebniseingang
+P62;nicht besetzt, kein Ergebniseingang
+P62p;nicht besetzt, kein Ergebniseingang
+P63;nicht besetzt, kein Ergebniseingang
+P63p;nicht besetzt, kein Ergebniseingang
+P64;nicht besetzt, kein Ergebniseingang
+P64p;nicht besetzt, kein Ergebniseingang
+P65;nicht besetzt, kein Ergebniseingang
+P65p;nicht besetzt, kein Ergebniseingang
+P66;nicht besetzt, kein Ergebniseingang
+P66p;nicht besetzt, kein Ergebniseingang
+P67;nicht besetzt, kein Ergebniseingang
+P67p;nicht besetzt, kein Ergebniseingang
+P68;nicht besetzt, kein Ergebniseingang
+P68p;nicht besetzt, kein Ergebniseingang
+P69;nicht besetzt, kein Ergebniseingang
+P69p;nicht besetzt, kein Ergebniseingang
+P70;nicht besetzt, kein Ergebniseingang
+P70p;nicht besetzt, kein Ergebniseingang
+P71;nicht besetzt, kein Ergebniseingang
+P71p;nicht besetzt, kein Ergebniseingang
+P72;nicht besetzt, kein Ergebniseingang
+P72p;nicht besetzt, kein Ergebniseingang
+P73;nicht besetzt, kein Ergebniseingang
+P73p;nicht besetzt, kein Ergebniseingang
+P74;nicht besetzt, kein Ergebniseingang
+P74p;nicht besetzt, kein Ergebniseingang
+P75;nicht besetzt, kein Ergebniseingang
+P75p;nicht besetzt, kein Ergebniseingang
+P76;nicht besetzt, kein Ergebniseingang
+P76p;nicht besetzt, kein Ergebniseingang
+P77;nicht besetzt, kein Ergebniseingang
+P77p;nicht besetzt, kein Ergebniseingang
+P78;nicht besetzt, kein Ergebniseingang
+P78p;nicht besetzt, kein Ergebniseingang
+P79;nicht besetzt, kein Ergebniseingang
+P79p;nicht besetzt, kein Ergebniseingang
+P80;nicht besetzt, kein Ergebniseingang
+P80p;nicht besetzt, kein Ergebniseingang
+P81;nicht besetzt, kein Ergebniseingang
+P81p;nicht besetzt, kein Ergebniseingang
+P82;nicht besetzt, kein Ergebniseingang
+P82p;nicht besetzt, kein Ergebniseingang
+P83;nicht besetzt, kein Ergebniseingang
+P83p;nicht besetzt, kein Ergebniseingang
+P84;nicht besetzt, kein Ergebniseingang
+P84p;nicht besetzt, kein Ergebniseingang
+P85;nicht besetzt, kein Ergebniseingang
+P85p;nicht besetzt, kein Ergebniseingang
+P86;nicht besetzt, kein Ergebniseingang
+P86p;nicht besetzt, kein Ergebniseingang
+P87;nicht besetzt, kein Ergebniseingang
+P87p;nicht besetzt, kein Ergebniseingang
+P88;nicht besetzt, kein Ergebniseingang
+P88p;nicht besetzt, kein Ergebniseingang
+P89;nicht besetzt, kein Ergebniseingang
+P89p;nicht besetzt, kein Ergebniseingang
+P90;nicht besetzt, kein Ergebniseingang
+P90p;nicht besetzt, kein Ergebniseingang
+P91;nicht besetzt, kein Ergebniseingang
+P91p;nicht besetzt, kein Ergebniseingang
+P92;nicht besetzt, kein Ergebniseingang
+P92p;nicht besetzt, kein Ergebniseingang
+P93;nicht besetzt, kein Ergebniseingang
+P93p;nicht besetzt, kein Ergebniseingang
+P94;nicht besetzt, kein Ergebniseingang
+P94p;nicht besetzt, kein Ergebniseingang
+P95;nicht besetzt, kein Ergebniseingang
+P95p;nicht besetzt, kein Ergebniseingang
+P96;nicht besetzt, kein Ergebniseingang
+P96p;nicht besetzt, kein Ergebniseingang
+P97;nicht besetzt, kein Ergebniseingang
+P97p;nicht besetzt, kein Ergebniseingang
+P98;nicht besetzt, kein Ergebniseingang
+P98p;nicht besetzt, kein Ergebniseingang
+P99;nicht besetzt, kein Ergebniseingang
+P99p;nicht besetzt, kein Ergebniseingang
+P100;nicht besetzt, kein Ergebniseingang
+P100p;nicht besetzt, kein Ergebniseingang
+P101;nicht besetzt, kein Ergebniseingang
+P101p;nicht besetzt, kein Ergebniseingang
+P102;nicht besetzt, kein Ergebniseingang
+P102p;nicht besetzt, kein Ergebniseingang
+P103;nicht besetzt, kein Ergebniseingang
+P103p;nicht besetzt, kein Ergebniseingang
+P104;nicht besetzt, kein Ergebniseingang
+P104p;nicht besetzt, kein Ergebniseingang
+P105;nicht besetzt, kein Ergebniseingang
+P105p;nicht besetzt, kein Ergebniseingang
+P106;nicht besetzt, kein Ergebniseingang
+P106p;nicht besetzt, kein Ergebniseingang
+P107;nicht besetzt, kein Ergebniseingang
+P107p;nicht besetzt, kein Ergebniseingang
+P108;nicht besetzt, kein Ergebniseingang
+P108p;nicht besetzt, kein Ergebniseingang
+P109;nicht besetzt, kein Ergebniseingang
+P109p;nicht besetzt, kein Ergebniseingang
+P110;nicht besetzt, kein Ergebniseingang
+P110p;nicht besetzt, kein Ergebniseingang
+P111;nicht besetzt, kein Ergebniseingang
+P111p;nicht besetzt, kein Ergebniseingang
+P112;nicht besetzt, kein Ergebniseingang
+P112p;nicht besetzt, kein Ergebniseingang
+P113;nicht besetzt, kein Ergebniseingang
+P113p;nicht besetzt, kein Ergebniseingang
+P114;nicht besetzt, kein Ergebniseingang
+P114p;nicht besetzt, kein Ergebniseingang
+P115;nicht besetzt, kein Ergebniseingang
+P115p;nicht besetzt, kein Ergebniseingang
+P116;nicht besetzt, kein Ergebniseingang
+P116p;nicht besetzt, kein Ergebniseingang
+P117;nicht besetzt, kein Ergebniseingang
+P117p;nicht besetzt, kein Ergebniseingang
+P118;nicht besetzt, kein Ergebniseingang
+P118p;nicht besetzt, kein Ergebniseingang
+P119;nicht besetzt, kein Ergebniseingang
+P119p;nicht besetzt, kein Ergebniseingang
+P120;nicht besetzt, kein Ergebniseingang
+P120p;nicht besetzt, kein Ergebniseingang
