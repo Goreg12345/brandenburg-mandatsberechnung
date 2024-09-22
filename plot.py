@@ -25,9 +25,13 @@ df = pd.read_csv('Ergebnis.csv')
 df = df[df.n_gesamtmandate > 0]
 
 plt.style.use('ggplot')
-plt.bar(df.partei, df.n_gesamtmandate, color=[colors[partei] for partei in df.partei])
+plt.bar(df.partei, df.n_gesamtmandate, color=[colors[partei] for partei in df.partei], alpha=0.5)
+# füge Direktmandate hinzu
+plt.bar(df.partei, df.n_direkt_mandate, color=[colors[partei] for partei in df.partei])
 # add the number of mandates on top of the bars
 for i, v in enumerate(df.n_gesamtmandate):
+    plt.text(i, v + 1, str(v), ha='center', va='bottom')
+for i, v in enumerate(df.n_direkt_mandate):
     plt.text(i, v + 1, str(v), ha='center', va='bottom')
 # rotate xlabels
 plt.xticks(ticks=range(len(df.partei)), labels=[abkuerzungen[partei] for partei in df.partei])
